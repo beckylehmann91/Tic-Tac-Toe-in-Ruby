@@ -1,2 +1,1 @@
-Ruby Game
-Including additional user functionality
+Ruby game including additional user functionality
