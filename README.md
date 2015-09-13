@@ -1,2 +1,2 @@
-# Tic Tac Toe
-Using Ruby to create additional game functionality
+# Tic Tac Toe - Ruby
+Including additional user functionality
